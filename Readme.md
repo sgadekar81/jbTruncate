@@ -13,9 +13,7 @@ Usage -
 
 Step1 - Include jbTruncate.js in your index file
 	<script src=".../jbTruncate.js"></script>
-
 Step2-  Add 'jb' module dependency in your app.js file
-
 Step3 - 
 	<jb-truncate string="TODAYS WORK TO DO 10/june/2016--11/june PROFILE PAGE
 	" truncate-after="20" ></jb-truncate>
